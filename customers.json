@@ -1,0 +1,1906 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-11-05T06:28:54Z",
+  "customers": [
+    {
+      "id": "CUS-0001",
+      "fullName": "Nguyễn Thị An",
+      "username": "customer001",
+      "email": "customer001@example.test",
+      "password": "CustDemo!001",
+      "role": "customer",
+      "phone": "0900000101",
+      "status": "active",
+      "loyaltyPoints": 1535,
+      "createdAt": "2025-05-21T06:28:54Z",
+      "address": {
+        "street": "2 Đường Demo 2",
+        "district": "Quận 2",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70001"
+      }
+    },
+    {
+      "id": "CUS-0002",
+      "fullName": "Trần Thị Huy",
+      "username": "customer002",
+      "email": "customer002@example.test",
+      "password": "CustDemo!002",
+      "role": "customer",
+      "phone": "0900000102",
+      "status": "active",
+      "loyaltyPoints": 1454,
+      "createdAt": "2026-05-24T06:28:54Z",
+      "address": {
+        "street": "3 Đường Demo 3",
+        "district": "Quận 3",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70002"
+      }
+    },
+    {
+      "id": "CUS-0003",
+      "fullName": "Lê Thị Nga",
+      "username": "customer003",
+      "email": "customer003@example.test",
+      "password": "CustDemo!003",
+      "role": "customer",
+      "phone": "0900000103",
+      "status": "active",
+      "loyaltyPoints": 1296,
+      "createdAt": "2025-04-02T06:28:54Z",
+      "address": {
+        "street": "4 Đường Demo 4",
+        "district": "Quận 4",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70003"
+      }
+    },
+    {
+      "id": "CUS-0004",
+      "fullName": "Phạm Thị My",
+      "username": "customer004",
+      "email": "customer004@example.test",
+      "password": "CustDemo!004",
+      "role": "customer",
+      "phone": "0900000104",
+      "status": "active",
+      "loyaltyPoints": 532,
+      "createdAt": "2026-07-23T06:28:54Z",
+      "address": {
+        "street": "5 Đường Demo 5",
+        "district": "Quận 5",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70004"
+      }
+    },
+    {
+      "id": "CUS-0005",
+      "fullName": "Hoàng Thị Sơn",
+      "username": "customer005",
+      "email": "customer005@example.test",
+      "password": "CustDemo!005",
+      "role": "customer",
+      "phone": "0900000105",
+      "status": "active",
+      "loyaltyPoints": 1927,
+      "createdAt": "2026-08-27T06:28:54Z",
+      "address": {
+        "street": "6 Đường Demo 6",
+        "district": "Quận 6",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70005"
+      }
+    },
+    {
+      "id": "CUS-0006",
+      "fullName": "Phan Thị Hạnh",
+      "username": "customer006",
+      "email": "customer006@example.test",
+      "password": "CustDemo!006",
+      "role": "customer",
+      "phone": "0900000106",
+      "status": "active",
+      "loyaltyPoints": 1654,
+      "createdAt": "2026-06-25T06:28:54Z",
+      "address": {
+        "street": "7 Đường Demo 7",
+        "district": "Quận 7",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70006"
+      }
+    },
+    {
+      "id": "CUS-0007",
+      "fullName": "Vũ Thị Nga",
+      "username": "customer007",
+      "email": "customer007@example.test",
+      "password": "CustDemo!007",
+      "role": "customer",
+      "phone": "0900000107",
+      "status": "active",
+      "loyaltyPoints": 277,
+      "createdAt": "2025-03-04T06:28:54Z",
+      "address": {
+        "street": "8 Đường Demo 8",
+        "district": "Quận 8",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70007"
+      }
+    },
+    {
+      "id": "CUS-0008",
+      "fullName": "Đặng Thị Đạt",
+      "username": "customer008",
+      "email": "customer008@example.test",
+      "password": "CustDemo!008",
+      "role": "customer",
+      "phone": "0900000108",
+      "status": "active",
+      "loyaltyPoints": 2373,
+      "createdAt": "2025-03-29T06:28:54Z",
+      "address": {
+        "street": "9 Đường Demo 9",
+        "district": "Quận 9",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70008"
+      }
+    },
+    {
+      "id": "CUS-0009",
+      "fullName": "Bùi Thị Nhi",
+      "username": "customer009",
+      "email": "customer009@example.test",
+      "password": "CustDemo!009",
+      "role": "customer",
+      "phone": "0900000109",
+      "status": "active",
+      "loyaltyPoints": 955,
+      "createdAt": "2025-04-25T06:28:54Z",
+      "address": {
+        "street": "10 Đường Demo 10",
+        "district": "Quận 10",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70009"
+      }
+    },
+    {
+      "id": "CUS-0010",
+      "fullName": "Đỗ Thị Hạnh",
+      "username": "customer010",
+      "email": "customer010@example.test",
+      "password": "CustDemo!010",
+      "role": "customer",
+      "phone": "0900000110",
+      "status": "active",
+      "loyaltyPoints": 823,
+      "createdAt": "2025-08-02T06:28:54Z",
+      "address": {
+        "street": "11 Đường Demo 11",
+        "district": "Quận 11",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70010"
+      }
+    },
+    {
+      "id": "CUS-0011",
+      "fullName": "Nguyễn Văn Nam",
+      "username": "customer011",
+      "email": "customer011@example.test",
+      "password": "CustDemo!011",
+      "role": "customer",
+      "phone": "0900000111",
+      "status": "active",
+      "loyaltyPoints": 1549,
+      "createdAt": "2025-12-30T06:28:54Z",
+      "address": {
+        "street": "12 Đường Demo 12",
+        "district": "Quận 12",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70011"
+      }
+    },
+    {
+      "id": "CUS-0012",
+      "fullName": "Trần Văn Yến",
+      "username": "customer012",
+      "email": "customer012@example.test",
+      "password": "CustDemo!012",
+      "role": "customer",
+      "phone": "0900000112",
+      "status": "active",
+      "loyaltyPoints": 1023,
+      "createdAt": "2026-02-25T06:28:54Z",
+      "address": {
+        "street": "13 Đường Demo 13",
+        "district": "Quận 1",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70012"
+      }
+    },
+    {
+      "id": "CUS-0013",
+      "fullName": "Lê Văn Nhi",
+      "username": "customer013",
+      "email": "customer013@example.test",
+      "password": "CustDemo!013",
+      "role": "customer",
+      "phone": "0900000113",
+      "status": "active",
+      "loyaltyPoints": 1069,
+      "createdAt": "2024-12-04T06:28:54Z",
+      "address": {
+        "street": "14 Đường Demo 14",
+        "district": "Quận 2",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70013"
+      }
+    },
+    {
+      "id": "CUS-0014",
+      "fullName": "Phạm Văn Hà",
+      "username": "customer014",
+      "email": "customer014@example.test",
+      "password": "CustDemo!014",
+      "role": "customer",
+      "phone": "0900000114",
+      "status": "active",
+      "loyaltyPoints": 719,
+      "createdAt": "2026-08-09T06:28:54Z",
+      "address": {
+        "street": "15 Đường Demo 15",
+        "district": "Quận 3",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70014"
+      }
+    },
+    {
+      "id": "CUS-0015",
+      "fullName": "Hoàng Văn Mai",
+      "username": "customer015",
+      "email": "customer015@example.test",
+      "password": "CustDemo!015",
+      "role": "customer",
+      "phone": "0900000115",
+      "status": "active",
+      "loyaltyPoints": 2370,
+      "createdAt": "2026-01-13T06:28:54Z",
+      "address": {
+        "street": "16 Đường Demo 16",
+        "district": "Quận 4",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70015"
+      }
+    },
+    {
+      "id": "CUS-0016",
+      "fullName": "Phan Văn Yến",
+      "username": "customer016",
+      "email": "customer016@example.test",
+      "password": "CustDemo!016",
+      "role": "customer",
+      "phone": "0900000116",
+      "status": "active",
+      "loyaltyPoints": 1988,
+      "createdAt": "2025-09-28T06:28:54Z",
+      "address": {
+        "street": "17 Đường Demo 17",
+        "district": "Quận 5",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70016"
+      }
+    },
+    {
+      "id": "CUS-0017",
+      "fullName": "Vũ Văn Tùng",
+      "username": "customer017",
+      "email": "customer017@example.test",
+      "password": "CustDemo!017",
+      "role": "customer",
+      "phone": "0900000117",
+      "status": "inactive",
+      "loyaltyPoints": 1214,
+      "createdAt": "2025-11-24T06:28:54Z",
+      "address": {
+        "street": "18 Đường Demo 18",
+        "district": "Quận 6",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70017"
+      }
+    },
+    {
+      "id": "CUS-0018",
+      "fullName": "Đặng Văn Giang",
+      "username": "customer018",
+      "email": "customer018@example.test",
+      "password": "CustDemo!018",
+      "role": "customer",
+      "phone": "0900000118",
+      "status": "active",
+      "loyaltyPoints": 1693,
+      "createdAt": "2025-02-01T06:28:54Z",
+      "address": {
+        "street": "19 Đường Demo 19",
+        "district": "Quận 7",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70018"
+      }
+    },
+    {
+      "id": "CUS-0019",
+      "fullName": "Bùi Văn Mai",
+      "username": "customer019",
+      "email": "customer019@example.test",
+      "password": "CustDemo!019",
+      "role": "customer",
+      "phone": "0900000119",
+      "status": "active",
+      "loyaltyPoints": 1676,
+      "createdAt": "2026-04-10T06:28:54Z",
+      "address": {
+        "street": "20 Đường Demo 20",
+        "district": "Quận 8",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70019"
+      }
+    },
+    {
+      "id": "CUS-0020",
+      "fullName": "Đỗ Văn Vy",
+      "username": "customer020",
+      "email": "customer020@example.test",
+      "password": "CustDemo!020",
+      "role": "customer",
+      "phone": "0900000120",
+      "status": "active",
+      "loyaltyPoints": 509,
+      "createdAt": "2025-10-18T06:28:54Z",
+      "address": {
+        "street": "21 Đường Demo 1",
+        "district": "Quận 9",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70020"
+      }
+    },
+    {
+      "id": "CUS-0021",
+      "fullName": "Nguyễn Minh Phương",
+      "username": "customer021",
+      "email": "customer021@example.test",
+      "password": "CustDemo!021",
+      "role": "customer",
+      "phone": "0900000121",
+      "status": "active",
+      "loyaltyPoints": 487,
+      "createdAt": "2025-09-24T06:28:54Z",
+      "address": {
+        "street": "22 Đường Demo 2",
+        "district": "Quận 10",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70021"
+      }
+    },
+    {
+      "id": "CUS-0022",
+      "fullName": "Trần Minh Giang",
+      "username": "customer022",
+      "email": "customer022@example.test",
+      "password": "CustDemo!022",
+      "role": "customer",
+      "phone": "0900000122",
+      "status": "active",
+      "loyaltyPoints": 984,
+      "createdAt": "2024-12-20T06:28:54Z",
+      "address": {
+        "street": "23 Đường Demo 3",
+        "district": "Quận 11",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70022"
+      }
+    },
+    {
+      "id": "CUS-0023",
+      "fullName": "Lê Minh Long",
+      "username": "customer023",
+      "email": "customer023@example.test",
+      "password": "CustDemo!023",
+      "role": "customer",
+      "phone": "0900000123",
+      "status": "active",
+      "loyaltyPoints": 2396,
+      "createdAt": "2026-02-19T06:28:54Z",
+      "address": {
+        "street": "24 Đường Demo 4",
+        "district": "Quận 12",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70023"
+      }
+    },
+    {
+      "id": "CUS-0024",
+      "fullName": "Phạm Minh Tuấn",
+      "username": "customer024",
+      "email": "customer024@example.test",
+      "password": "CustDemo!024",
+      "role": "customer",
+      "phone": "0900000124",
+      "status": "active",
+      "loyaltyPoints": 552,
+      "createdAt": "2026-02-01T06:28:54Z",
+      "address": {
+        "street": "25 Đường Demo 5",
+        "district": "Quận 1",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70024"
+      }
+    },
+    {
+      "id": "CUS-0025",
+      "fullName": "Hoàng Minh Phương",
+      "username": "customer025",
+      "email": "customer025@example.test",
+      "password": "CustDemo!025",
+      "role": "customer",
+      "phone": "0900000125",
+      "status": "active",
+      "loyaltyPoints": 501,
+      "createdAt": "2026-06-20T06:28:54Z",
+      "address": {
+        "street": "26 Đường Demo 6",
+        "district": "Quận 2",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70025"
+      }
+    },
+    {
+      "id": "CUS-0026",
+      "fullName": "Phan Minh Dũng",
+      "username": "customer026",
+      "email": "customer026@example.test",
+      "password": "CustDemo!026",
+      "role": "customer",
+      "phone": "0900000126",
+      "status": "active",
+      "loyaltyPoints": 968,
+      "createdAt": "2025-01-01T06:28:54Z",
+      "address": {
+        "street": "27 Đường Demo 7",
+        "district": "Quận 3",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70026"
+      }
+    },
+    {
+      "id": "CUS-0027",
+      "fullName": "Vũ Minh Linh",
+      "username": "customer027",
+      "email": "customer027@example.test",
+      "password": "CustDemo!027",
+      "role": "customer",
+      "phone": "0900000127",
+      "status": "active",
+      "loyaltyPoints": 2316,
+      "createdAt": "2026-07-31T06:28:54Z",
+      "address": {
+        "street": "28 Đường Demo 8",
+        "district": "Quận 4",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70027"
+      }
+    },
+    {
+      "id": "CUS-0028",
+      "fullName": "Đặng Minh Tuấn",
+      "username": "customer028",
+      "email": "customer028@example.test",
+      "password": "CustDemo!028",
+      "role": "customer",
+      "phone": "0900000128",
+      "status": "active",
+      "loyaltyPoints": 488,
+      "createdAt": "2025-04-11T06:28:54Z",
+      "address": {
+        "street": "29 Đường Demo 9",
+        "district": "Quận 5",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70028"
+      }
+    },
+    {
+      "id": "CUS-0029",
+      "fullName": "Bùi Minh Tâm",
+      "username": "customer029",
+      "email": "customer029@example.test",
+      "password": "CustDemo!029",
+      "role": "customer",
+      "phone": "0900000129",
+      "status": "active",
+      "loyaltyPoints": 273,
+      "createdAt": "2026-04-26T06:28:54Z",
+      "address": {
+        "street": "30 Đường Demo 10",
+        "district": "Quận 6",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70029"
+      }
+    },
+    {
+      "id": "CUS-0030",
+      "fullName": "Đỗ Minh Chi",
+      "username": "customer030",
+      "email": "customer030@example.test",
+      "password": "CustDemo!030",
+      "role": "customer",
+      "phone": "0900000130",
+      "status": "active",
+      "loyaltyPoints": 1545,
+      "createdAt": "2026-03-12T06:28:54Z",
+      "address": {
+        "street": "31 Đường Demo 11",
+        "district": "Quận 7",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70030"
+      }
+    },
+    {
+      "id": "CUS-0031",
+      "fullName": "Nguyễn Ngọc Linh",
+      "username": "customer031",
+      "email": "customer031@example.test",
+      "password": "CustDemo!031",
+      "role": "customer",
+      "phone": "0900000131",
+      "status": "active",
+      "loyaltyPoints": 2128,
+      "createdAt": "2026-05-28T06:28:54Z",
+      "address": {
+        "street": "32 Đường Demo 12",
+        "district": "Quận 8",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70031"
+      }
+    },
+    {
+      "id": "CUS-0032",
+      "fullName": "Trần Ngọc Trang",
+      "username": "customer032",
+      "email": "customer032@example.test",
+      "password": "CustDemo!032",
+      "role": "customer",
+      "phone": "0900000132",
+      "status": "active",
+      "loyaltyPoints": 399,
+      "createdAt": "2026-10-21T06:28:54Z",
+      "address": {
+        "street": "33 Đường Demo 13",
+        "district": "Quận 9",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70032"
+      }
+    },
+    {
+      "id": "CUS-0033",
+      "fullName": "Lê Ngọc Khoa",
+      "username": "customer033",
+      "email": "customer033@example.test",
+      "password": "CustDemo!033",
+      "role": "customer",
+      "phone": "0900000133",
+      "status": "active",
+      "loyaltyPoints": 809,
+      "createdAt": "2024-12-29T06:28:54Z",
+      "address": {
+        "street": "34 Đường Demo 14",
+        "district": "Quận 10",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70033"
+      }
+    },
+    {
+      "id": "CUS-0034",
+      "fullName": "Phạm Ngọc Chi",
+      "username": "customer034",
+      "email": "customer034@example.test",
+      "password": "CustDemo!034",
+      "role": "customer",
+      "phone": "0900000134",
+      "status": "inactive",
+      "loyaltyPoints": 1886,
+      "createdAt": "2026-06-27T06:28:54Z",
+      "address": {
+        "street": "35 Đường Demo 15",
+        "district": "Quận 11",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70034"
+      }
+    },
+    {
+      "id": "CUS-0035",
+      "fullName": "Hoàng Ngọc Lan",
+      "username": "customer035",
+      "email": "customer035@example.test",
+      "password": "CustDemo!035",
+      "role": "customer",
+      "phone": "0900000135",
+      "status": "active",
+      "loyaltyPoints": 1856,
+      "createdAt": "2025-10-27T06:28:54Z",
+      "address": {
+        "street": "36 Đường Demo 16",
+        "district": "Quận 12",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70035"
+      }
+    },
+    {
+      "id": "CUS-0036",
+      "fullName": "Phan Ngọc Quân",
+      "username": "customer036",
+      "email": "customer036@example.test",
+      "password": "CustDemo!036",
+      "role": "customer",
+      "phone": "0900000136",
+      "status": "active",
+      "loyaltyPoints": 26,
+      "createdAt": "2025-01-26T06:28:54Z",
+      "address": {
+        "street": "37 Đường Demo 17",
+        "district": "Quận 1",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70036"
+      }
+    },
+    {
+      "id": "CUS-0037",
+      "fullName": "Vũ Ngọc Khoa",
+      "username": "customer037",
+      "email": "customer037@example.test",
+      "password": "CustDemo!037",
+      "role": "customer",
+      "phone": "0900000137",
+      "status": "active",
+      "loyaltyPoints": 948,
+      "createdAt": "2026-03-17T06:28:54Z",
+      "address": {
+        "street": "38 Đường Demo 18",
+        "district": "Quận 2",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70037"
+      }
+    },
+    {
+      "id": "CUS-0038",
+      "fullName": "Đặng Ngọc Bình",
+      "username": "customer038",
+      "email": "customer038@example.test",
+      "password": "CustDemo!038",
+      "role": "customer",
+      "phone": "0900000138",
+      "status": "active",
+      "loyaltyPoints": 1559,
+      "createdAt": "2026-05-24T06:28:54Z",
+      "address": {
+        "street": "39 Đường Demo 19",
+        "district": "Quận 3",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70038"
+      }
+    },
+    {
+      "id": "CUS-0039",
+      "fullName": "Bùi Ngọc Khánh",
+      "username": "customer039",
+      "email": "customer039@example.test",
+      "password": "CustDemo!039",
+      "role": "customer",
+      "phone": "0900000139",
+      "status": "active",
+      "loyaltyPoints": 1641,
+      "createdAt": "2026-10-17T06:28:54Z",
+      "address": {
+        "street": "40 Đường Demo 20",
+        "district": "Quận 4",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70039"
+      }
+    },
+    {
+      "id": "CUS-0040",
+      "fullName": "Đỗ Ngọc Quân",
+      "username": "customer040",
+      "email": "customer040@example.test",
+      "password": "CustDemo!040",
+      "role": "customer",
+      "phone": "0900000140",
+      "status": "active",
+      "loyaltyPoints": 507,
+      "createdAt": "2024-12-03T06:28:54Z",
+      "address": {
+        "street": "41 Đường Demo 1",
+        "district": "Quận 5",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70040"
+      }
+    },
+    {
+      "id": "CUS-0041",
+      "fullName": "Nguyễn Hoàng Thảo",
+      "username": "customer041",
+      "email": "customer041@example.test",
+      "password": "CustDemo!041",
+      "role": "customer",
+      "phone": "0900000141",
+      "status": "active",
+      "loyaltyPoints": 198,
+      "createdAt": "2026-05-31T06:28:54Z",
+      "address": {
+        "street": "42 Đường Demo 2",
+        "district": "Quận 6",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70041"
+      }
+    },
+    {
+      "id": "CUS-0042",
+      "fullName": "Trần Hoàng An",
+      "username": "customer042",
+      "email": "customer042@example.test",
+      "password": "CustDemo!042",
+      "role": "customer",
+      "phone": "0900000142",
+      "status": "active",
+      "loyaltyPoints": 2166,
+      "createdAt": "2025-05-23T06:28:54Z",
+      "address": {
+        "street": "43 Đường Demo 3",
+        "district": "Quận 7",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70042"
+      }
+    },
+    {
+      "id": "CUS-0043",
+      "fullName": "Lê Hoàng Khánh",
+      "username": "customer043",
+      "email": "customer043@example.test",
+      "password": "CustDemo!043",
+      "role": "customer",
+      "phone": "0900000143",
+      "status": "active",
+      "loyaltyPoints": 2488,
+      "createdAt": "2025-09-08T06:28:54Z",
+      "address": {
+        "street": "44 Đường Demo 4",
+        "district": "Quận 8",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70043"
+      }
+    },
+    {
+      "id": "CUS-0044",
+      "fullName": "Phạm Hoàng Phúc",
+      "username": "customer044",
+      "email": "customer044@example.test",
+      "password": "CustDemo!044",
+      "role": "customer",
+      "phone": "0900000144",
+      "status": "active",
+      "loyaltyPoints": 1697,
+      "createdAt": "2025-09-21T06:28:54Z",
+      "address": {
+        "street": "45 Đường Demo 5",
+        "district": "Quận 9",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70044"
+      }
+    },
+    {
+      "id": "CUS-0045",
+      "fullName": "Hoàng Hoàng My",
+      "username": "customer045",
+      "email": "customer045@example.test",
+      "password": "CustDemo!045",
+      "role": "customer",
+      "phone": "0900000145",
+      "status": "active",
+      "loyaltyPoints": 1553,
+      "createdAt": "2025-08-27T06:28:54Z",
+      "address": {
+        "street": "46 Đường Demo 6",
+        "district": "Quận 10",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70045"
+      }
+    },
+    {
+      "id": "CUS-0046",
+      "fullName": "Phan Hoàng An",
+      "username": "customer046",
+      "email": "customer046@example.test",
+      "password": "CustDemo!046",
+      "role": "customer",
+      "phone": "0900000146",
+      "status": "active",
+      "loyaltyPoints": 306,
+      "createdAt": "2025-01-06T06:28:54Z",
+      "address": {
+        "street": "47 Đường Demo 7",
+        "district": "Quận 11",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70046"
+      }
+    },
+    {
+      "id": "CUS-0047",
+      "fullName": "Vũ Hoàng Huy",
+      "username": "customer047",
+      "email": "customer047@example.test",
+      "password": "CustDemo!047",
+      "role": "customer",
+      "phone": "0900000147",
+      "status": "active",
+      "loyaltyPoints": 88,
+      "createdAt": "2025-12-10T06:28:54Z",
+      "address": {
+        "street": "48 Đường Demo 8",
+        "district": "Quận 12",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70047"
+      }
+    },
+    {
+      "id": "CUS-0048",
+      "fullName": "Đặng Hoàng Nga",
+      "username": "customer048",
+      "email": "customer048@example.test",
+      "password": "CustDemo!048",
+      "role": "customer",
+      "phone": "0900000148",
+      "status": "active",
+      "loyaltyPoints": 330,
+      "createdAt": "2025-01-30T06:28:54Z",
+      "address": {
+        "street": "49 Đường Demo 9",
+        "district": "Quận 1",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70048"
+      }
+    },
+    {
+      "id": "CUS-0049",
+      "fullName": "Bùi Hoàng My",
+      "username": "customer049",
+      "email": "customer049@example.test",
+      "password": "CustDemo!049",
+      "role": "customer",
+      "phone": "0900000149",
+      "status": "active",
+      "loyaltyPoints": 91,
+      "createdAt": "2026-09-11T06:28:54Z",
+      "address": {
+        "street": "50 Đường Demo 10",
+        "district": "Quận 2",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70049"
+      }
+    },
+    {
+      "id": "CUS-0050",
+      "fullName": "Đỗ Hoàng Sơn",
+      "username": "customer050",
+      "email": "customer050@example.test",
+      "password": "CustDemo!050",
+      "role": "customer",
+      "phone": "0900000150",
+      "status": "active",
+      "loyaltyPoints": 1477,
+      "createdAt": "2025-10-27T06:28:54Z",
+      "address": {
+        "street": "51 Đường Demo 11",
+        "district": "Quận 3",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70050"
+      }
+    },
+    {
+      "id": "CUS-0051",
+      "fullName": "Nguyễn Gia Hạnh",
+      "username": "customer051",
+      "email": "customer051@example.test",
+      "password": "CustDemo!051",
+      "role": "customer",
+      "phone": "0900000151",
+      "status": "inactive",
+      "loyaltyPoints": 1491,
+      "createdAt": "2026-05-19T06:28:54Z",
+      "address": {
+        "street": "52 Đường Demo 12",
+        "district": "Quận 4",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70051"
+      }
+    },
+    {
+      "id": "CUS-0052",
+      "fullName": "Trần Gia Nga",
+      "username": "customer052",
+      "email": "customer052@example.test",
+      "password": "CustDemo!052",
+      "role": "customer",
+      "phone": "0900000152",
+      "status": "active",
+      "loyaltyPoints": 2461,
+      "createdAt": "2024-12-16T06:28:54Z",
+      "address": {
+        "street": "53 Đường Demo 13",
+        "district": "Quận 5",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70052"
+      }
+    },
+    {
+      "id": "CUS-0053",
+      "fullName": "Lê Gia Đạt",
+      "username": "customer053",
+      "email": "customer053@example.test",
+      "password": "CustDemo!053",
+      "role": "customer",
+      "phone": "0900000153",
+      "status": "active",
+      "loyaltyPoints": 535,
+      "createdAt": "2025-08-13T06:28:54Z",
+      "address": {
+        "street": "54 Đường Demo 14",
+        "district": "Quận 6",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70053"
+      }
+    },
+    {
+      "id": "CUS-0054",
+      "fullName": "Phạm Gia Nhi",
+      "username": "customer054",
+      "email": "customer054@example.test",
+      "password": "CustDemo!054",
+      "role": "customer",
+      "phone": "0900000154",
+      "status": "active",
+      "loyaltyPoints": 1378,
+      "createdAt": "2025-12-18T06:28:54Z",
+      "address": {
+        "street": "55 Đường Demo 15",
+        "district": "Quận 7",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70054"
+      }
+    },
+    {
+      "id": "CUS-0055",
+      "fullName": "Hoàng Gia Hạnh",
+      "username": "customer055",
+      "email": "customer055@example.test",
+      "password": "CustDemo!055",
+      "role": "customer",
+      "phone": "0900000155",
+      "status": "active",
+      "loyaltyPoints": 2124,
+      "createdAt": "2024-12-06T06:28:54Z",
+      "address": {
+        "street": "56 Đường Demo 16",
+        "district": "Quận 8",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70055"
+      }
+    },
+    {
+      "id": "CUS-0056",
+      "fullName": "Phan Gia Nam",
+      "username": "customer056",
+      "email": "customer056@example.test",
+      "password": "CustDemo!056",
+      "role": "customer",
+      "phone": "0900000156",
+      "status": "active",
+      "loyaltyPoints": 2470,
+      "createdAt": "2026-08-28T06:28:54Z",
+      "address": {
+        "street": "57 Đường Demo 17",
+        "district": "Quận 9",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70056"
+      }
+    },
+    {
+      "id": "CUS-0057",
+      "fullName": "Vũ Gia Yến",
+      "username": "customer057",
+      "email": "customer057@example.test",
+      "password": "CustDemo!057",
+      "role": "customer",
+      "phone": "0900000157",
+      "status": "active",
+      "loyaltyPoints": 1448,
+      "createdAt": "2024-12-11T06:28:54Z",
+      "address": {
+        "street": "58 Đường Demo 18",
+        "district": "Quận 10",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70057"
+      }
+    },
+    {
+      "id": "CUS-0058",
+      "fullName": "Đặng Gia Nhi",
+      "username": "customer058",
+      "email": "customer058@example.test",
+      "password": "CustDemo!058",
+      "role": "customer",
+      "phone": "0900000158",
+      "status": "active",
+      "loyaltyPoints": 1248,
+      "createdAt": "2024-11-25T06:28:54Z",
+      "address": {
+        "street": "59 Đường Demo 19",
+        "district": "Quận 11",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70058"
+      }
+    },
+    {
+      "id": "CUS-0059",
+      "fullName": "Bùi Gia Hà",
+      "username": "customer059",
+      "email": "customer059@example.test",
+      "password": "CustDemo!059",
+      "role": "customer",
+      "phone": "0900000159",
+      "status": "active",
+      "loyaltyPoints": 645,
+      "createdAt": "2025-02-25T06:28:54Z",
+      "address": {
+        "street": "60 Đường Demo 20",
+        "district": "Quận 12",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70059"
+      }
+    },
+    {
+      "id": "CUS-0060",
+      "fullName": "Đỗ Gia Mai",
+      "username": "customer060",
+      "email": "customer060@example.test",
+      "password": "CustDemo!060",
+      "role": "customer",
+      "phone": "0900000160",
+      "status": "active",
+      "loyaltyPoints": 747,
+      "createdAt": "2026-04-14T06:28:54Z",
+      "address": {
+        "street": "61 Đường Demo 1",
+        "district": "Quận 1",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70060"
+      }
+    },
+    {
+      "id": "CUS-0061",
+      "fullName": "Nguyễn Thanh Yến",
+      "username": "customer061",
+      "email": "customer061@example.test",
+      "password": "CustDemo!061",
+      "role": "customer",
+      "phone": "0900000161",
+      "status": "active",
+      "loyaltyPoints": 1134,
+      "createdAt": "2026-09-23T06:28:54Z",
+      "address": {
+        "street": "62 Đường Demo 2",
+        "district": "Quận 2",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70061"
+      }
+    },
+    {
+      "id": "CUS-0062",
+      "fullName": "Trần Thanh Tùng",
+      "username": "customer062",
+      "email": "customer062@example.test",
+      "password": "CustDemo!062",
+      "role": "customer",
+      "phone": "0900000162",
+      "status": "active",
+      "loyaltyPoints": 476,
+      "createdAt": "2025-09-19T06:28:54Z",
+      "address": {
+        "street": "63 Đường Demo 3",
+        "district": "Quận 3",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70062"
+      }
+    },
+    {
+      "id": "CUS-0063",
+      "fullName": "Lê Thanh Giang",
+      "username": "customer063",
+      "email": "customer063@example.test",
+      "password": "CustDemo!063",
+      "role": "customer",
+      "phone": "0900000163",
+      "status": "active",
+      "loyaltyPoints": 2050,
+      "createdAt": "2025-06-12T06:28:54Z",
+      "address": {
+        "street": "64 Đường Demo 4",
+        "district": "Quận 4",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70063"
+      }
+    },
+    {
+      "id": "CUS-0064",
+      "fullName": "Phạm Thanh Mai",
+      "username": "customer064",
+      "email": "customer064@example.test",
+      "password": "CustDemo!064",
+      "role": "customer",
+      "phone": "0900000164",
+      "status": "active",
+      "loyaltyPoints": 1446,
+      "createdAt": "2024-11-11T06:28:54Z",
+      "address": {
+        "street": "65 Đường Demo 5",
+        "district": "Quận 5",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70064"
+      }
+    },
+    {
+      "id": "CUS-0065",
+      "fullName": "Hoàng Thanh Vy",
+      "username": "customer065",
+      "email": "customer065@example.test",
+      "password": "CustDemo!065",
+      "role": "customer",
+      "phone": "0900000165",
+      "status": "active",
+      "loyaltyPoints": 2236,
+      "createdAt": "2024-11-30T06:28:54Z",
+      "address": {
+        "street": "66 Đường Demo 6",
+        "district": "Quận 6",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70065"
+      }
+    },
+    {
+      "id": "CUS-0066",
+      "fullName": "Phan Thanh Phương",
+      "username": "customer066",
+      "email": "customer066@example.test",
+      "password": "CustDemo!066",
+      "role": "customer",
+      "phone": "0900000166",
+      "status": "active",
+      "loyaltyPoints": 2045,
+      "createdAt": "2026-06-11T06:28:54Z",
+      "address": {
+        "street": "67 Đường Demo 7",
+        "district": "Quận 7",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70066"
+      }
+    },
+    {
+      "id": "CUS-0067",
+      "fullName": "Vũ Thanh Giang",
+      "username": "customer067",
+      "email": "customer067@example.test",
+      "password": "CustDemo!067",
+      "role": "customer",
+      "phone": "0900000167",
+      "status": "active",
+      "loyaltyPoints": 668,
+      "createdAt": "2026-04-01T06:28:54Z",
+      "address": {
+        "street": "68 Đường Demo 8",
+        "district": "Quận 8",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70067"
+      }
+    },
+    {
+      "id": "CUS-0068",
+      "fullName": "Đặng Thanh Long",
+      "username": "customer068",
+      "email": "customer068@example.test",
+      "password": "CustDemo!068",
+      "role": "customer",
+      "phone": "0900000168",
+      "status": "inactive",
+      "loyaltyPoints": 1756,
+      "createdAt": "2025-01-17T06:28:54Z",
+      "address": {
+        "street": "69 Đường Demo 9",
+        "district": "Quận 9",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70068"
+      }
+    },
+    {
+      "id": "CUS-0069",
+      "fullName": "Bùi Thanh Tuấn",
+      "username": "customer069",
+      "email": "customer069@example.test",
+      "password": "CustDemo!069",
+      "role": "customer",
+      "phone": "0900000169",
+      "status": "active",
+      "loyaltyPoints": 1927,
+      "createdAt": "2025-04-07T06:28:54Z",
+      "address": {
+        "street": "70 Đường Demo 10",
+        "district": "Quận 10",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70069"
+      }
+    },
+    {
+      "id": "CUS-0070",
+      "fullName": "Đỗ Thanh Phương",
+      "username": "customer070",
+      "email": "customer070@example.test",
+      "password": "CustDemo!070",
+      "role": "customer",
+      "phone": "0900000170",
+      "status": "active",
+      "loyaltyPoints": 665,
+      "createdAt": "2025-04-26T06:28:54Z",
+      "address": {
+        "street": "71 Đường Demo 11",
+        "district": "Quận 11",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70070"
+      }
+    },
+    {
+      "id": "CUS-0071",
+      "fullName": "Nguyễn Quốc Dũng",
+      "username": "customer071",
+      "email": "customer071@example.test",
+      "password": "CustDemo!071",
+      "role": "customer",
+      "phone": "0900000171",
+      "status": "active",
+      "loyaltyPoints": 1580,
+      "createdAt": "2024-11-07T06:28:54Z",
+      "address": {
+        "street": "72 Đường Demo 12",
+        "district": "Quận 12",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70071"
+      }
+    },
+    {
+      "id": "CUS-0072",
+      "fullName": "Trần Quốc Linh",
+      "username": "customer072",
+      "email": "customer072@example.test",
+      "password": "CustDemo!072",
+      "role": "customer",
+      "phone": "0900000172",
+      "status": "active",
+      "loyaltyPoints": 752,
+      "createdAt": "2025-04-08T06:28:54Z",
+      "address": {
+        "street": "73 Đường Demo 13",
+        "district": "Quận 1",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70072"
+      }
+    },
+    {
+      "id": "CUS-0073",
+      "fullName": "Lê Quốc Tuấn",
+      "username": "customer073",
+      "email": "customer073@example.test",
+      "password": "CustDemo!073",
+      "role": "customer",
+      "phone": "0900000173",
+      "status": "active",
+      "loyaltyPoints": 1677,
+      "createdAt": "2026-07-06T06:28:54Z",
+      "address": {
+        "street": "74 Đường Demo 14",
+        "district": "Quận 2",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70073"
+      }
+    },
+    {
+      "id": "CUS-0074",
+      "fullName": "Phạm Quốc Tâm",
+      "username": "customer074",
+      "email": "customer074@example.test",
+      "password": "CustDemo!074",
+      "role": "customer",
+      "phone": "0900000174",
+      "status": "active",
+      "loyaltyPoints": 1247,
+      "createdAt": "2025-11-21T06:28:54Z",
+      "address": {
+        "street": "75 Đường Demo 15",
+        "district": "Quận 3",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70074"
+      }
+    },
+    {
+      "id": "CUS-0075",
+      "fullName": "Hoàng Quốc Chi",
+      "username": "customer075",
+      "email": "customer075@example.test",
+      "password": "CustDemo!075",
+      "role": "customer",
+      "phone": "0900000175",
+      "status": "active",
+      "loyaltyPoints": 282,
+      "createdAt": "2026-01-03T06:28:54Z",
+      "address": {
+        "street": "76 Đường Demo 16",
+        "district": "Quận 4",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70075"
+      }
+    },
+    {
+      "id": "CUS-0076",
+      "fullName": "Phan Quốc Linh",
+      "username": "customer076",
+      "email": "customer076@example.test",
+      "password": "CustDemo!076",
+      "role": "customer",
+      "phone": "0900000176",
+      "status": "active",
+      "loyaltyPoints": 121,
+      "createdAt": "2026-10-10T06:28:54Z",
+      "address": {
+        "street": "77 Đường Demo 17",
+        "district": "Quận 5",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70076"
+      }
+    },
+    {
+      "id": "CUS-0077",
+      "fullName": "Vũ Quốc Trang",
+      "username": "customer077",
+      "email": "customer077@example.test",
+      "password": "CustDemo!077",
+      "role": "customer",
+      "phone": "0900000177",
+      "status": "active",
+      "loyaltyPoints": 1526,
+      "createdAt": "2024-12-01T06:28:54Z",
+      "address": {
+        "street": "78 Đường Demo 18",
+        "district": "Quận 6",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70077"
+      }
+    },
+    {
+      "id": "CUS-0078",
+      "fullName": "Đặng Quốc Khoa",
+      "username": "customer078",
+      "email": "customer078@example.test",
+      "password": "CustDemo!078",
+      "role": "customer",
+      "phone": "0900000178",
+      "status": "active",
+      "loyaltyPoints": 736,
+      "createdAt": "2026-07-28T06:28:54Z",
+      "address": {
+        "street": "79 Đường Demo 19",
+        "district": "Quận 7",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70078"
+      }
+    },
+    {
+      "id": "CUS-0079",
+      "fullName": "Bùi Quốc Chi",
+      "username": "customer079",
+      "email": "customer079@example.test",
+      "password": "CustDemo!079",
+      "role": "customer",
+      "phone": "0900000179",
+      "status": "active",
+      "loyaltyPoints": 1817,
+      "createdAt": "2025-07-27T06:28:54Z",
+      "address": {
+        "street": "80 Đường Demo 20",
+        "district": "Quận 8",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70079"
+      }
+    },
+    {
+      "id": "CUS-0080",
+      "fullName": "Đỗ Quốc Lan",
+      "username": "customer080",
+      "email": "customer080@example.test",
+      "password": "CustDemo!080",
+      "role": "customer",
+      "phone": "0900000180",
+      "status": "active",
+      "loyaltyPoints": 1375,
+      "createdAt": "2026-08-16T06:28:54Z",
+      "address": {
+        "street": "81 Đường Demo 1",
+        "district": "Quận 9",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70080"
+      }
+    },
+    {
+      "id": "CUS-0081",
+      "fullName": "Nguyễn Bảo Quân",
+      "username": "customer081",
+      "email": "customer081@example.test",
+      "password": "CustDemo!081",
+      "role": "customer",
+      "phone": "0900000181",
+      "status": "active",
+      "loyaltyPoints": 845,
+      "createdAt": "2025-06-10T06:28:54Z",
+      "address": {
+        "street": "82 Đường Demo 2",
+        "district": "Quận 10",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70081"
+      }
+    },
+    {
+      "id": "CUS-0082",
+      "fullName": "Trần Bảo Khoa",
+      "username": "customer082",
+      "email": "customer082@example.test",
+      "password": "CustDemo!082",
+      "role": "customer",
+      "phone": "0900000182",
+      "status": "active",
+      "loyaltyPoints": 1297,
+      "createdAt": "2026-08-21T06:28:54Z",
+      "address": {
+        "street": "83 Đường Demo 3",
+        "district": "Quận 11",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70082"
+      }
+    },
+    {
+      "id": "CUS-0083",
+      "fullName": "Lê Bảo Bình",
+      "username": "customer083",
+      "email": "customer083@example.test",
+      "password": "CustDemo!083",
+      "role": "customer",
+      "phone": "0900000183",
+      "status": "active",
+      "loyaltyPoints": 552,
+      "createdAt": "2025-09-14T06:28:54Z",
+      "address": {
+        "street": "84 Đường Demo 4",
+        "district": "Quận 12",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70083"
+      }
+    },
+    {
+      "id": "CUS-0084",
+      "fullName": "Phạm Bảo Khánh",
+      "username": "customer084",
+      "email": "customer084@example.test",
+      "password": "CustDemo!084",
+      "role": "customer",
+      "phone": "0900000184",
+      "status": "active",
+      "loyaltyPoints": 800,
+      "createdAt": "2026-06-24T06:28:54Z",
+      "address": {
+        "street": "85 Đường Demo 5",
+        "district": "Quận 1",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70084"
+      }
+    },
+    {
+      "id": "CUS-0085",
+      "fullName": "Hoàng Bảo Quân",
+      "username": "customer085",
+      "email": "customer085@example.test",
+      "password": "CustDemo!085",
+      "role": "customer",
+      "phone": "0900000185",
+      "status": "inactive",
+      "loyaltyPoints": 639,
+      "createdAt": "2026-08-26T06:28:54Z",
+      "address": {
+        "street": "86 Đường Demo 6",
+        "district": "Quận 2",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70085"
+      }
+    },
+    {
+      "id": "CUS-0086",
+      "fullName": "Phan Bảo Thảo",
+      "username": "customer086",
+      "email": "customer086@example.test",
+      "password": "CustDemo!086",
+      "role": "customer",
+      "phone": "0900000186",
+      "status": "active",
+      "loyaltyPoints": 1471,
+      "createdAt": "2025-07-25T06:28:54Z",
+      "address": {
+        "street": "87 Đường Demo 7",
+        "district": "Quận 3",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70086"
+      }
+    },
+    {
+      "id": "CUS-0087",
+      "fullName": "Vũ Bảo An",
+      "username": "customer087",
+      "email": "customer087@example.test",
+      "password": "CustDemo!087",
+      "role": "customer",
+      "phone": "0900000187",
+      "status": "active",
+      "loyaltyPoints": 1083,
+      "createdAt": "2025-10-07T06:28:54Z",
+      "address": {
+        "street": "88 Đường Demo 8",
+        "district": "Quận 4",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70087"
+      }
+    },
+    {
+      "id": "CUS-0088",
+      "fullName": "Đặng Bảo Khánh",
+      "username": "customer088",
+      "email": "customer088@example.test",
+      "password": "CustDemo!088",
+      "role": "customer",
+      "phone": "0900000188",
+      "status": "active",
+      "loyaltyPoints": 2285,
+      "createdAt": "2025-01-01T06:28:54Z",
+      "address": {
+        "street": "89 Đường Demo 9",
+        "district": "Quận 5",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70088"
+      }
+    },
+    {
+      "id": "CUS-0089",
+      "fullName": "Bùi Bảo Phúc",
+      "username": "customer089",
+      "email": "customer089@example.test",
+      "password": "CustDemo!089",
+      "role": "customer",
+      "phone": "0900000189",
+      "status": "active",
+      "loyaltyPoints": 96,
+      "createdAt": "2026-02-04T06:28:54Z",
+      "address": {
+        "street": "90 Đường Demo 10",
+        "district": "Quận 6",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70089"
+      }
+    },
+    {
+      "id": "CUS-0090",
+      "fullName": "Đỗ Bảo My",
+      "username": "customer090",
+      "email": "customer090@example.test",
+      "password": "CustDemo!090",
+      "role": "customer",
+      "phone": "0900000190",
+      "status": "active",
+      "loyaltyPoints": 73,
+      "createdAt": "2024-12-28T06:28:54Z",
+      "address": {
+        "street": "91 Đường Demo 11",
+        "district": "Quận 7",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70090"
+      }
+    },
+    {
+      "id": "CUS-0091",
+      "fullName": "Nguyễn Anh An",
+      "username": "customer091",
+      "email": "customer091@example.test",
+      "password": "CustDemo!091",
+      "role": "customer",
+      "phone": "0900000191",
+      "status": "active",
+      "loyaltyPoints": 2228,
+      "createdAt": "2026-03-25T06:28:54Z",
+      "address": {
+        "street": "92 Đường Demo 12",
+        "district": "Quận 8",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70091"
+      }
+    },
+    {
+      "id": "CUS-0092",
+      "fullName": "Trần Anh Huy",
+      "username": "customer092",
+      "email": "customer092@example.test",
+      "password": "CustDemo!092",
+      "role": "customer",
+      "phone": "0900000192",
+      "status": "active",
+      "loyaltyPoints": 1706,
+      "createdAt": "2026-09-16T06:28:54Z",
+      "address": {
+        "street": "93 Đường Demo 13",
+        "district": "Quận 9",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70092"
+      }
+    },
+    {
+      "id": "CUS-0093",
+      "fullName": "Lê Anh Nga",
+      "username": "customer093",
+      "email": "customer093@example.test",
+      "password": "CustDemo!093",
+      "role": "customer",
+      "phone": "0900000193",
+      "status": "active",
+      "loyaltyPoints": 464,
+      "createdAt": "2026-04-15T06:28:54Z",
+      "address": {
+        "street": "94 Đường Demo 14",
+        "district": "Quận 10",
+        "city": "Hải Phòng",
+        "country": "Vietnam",
+        "postalCode": "70093"
+      }
+    },
+    {
+      "id": "CUS-0094",
+      "fullName": "Phạm Anh My",
+      "username": "customer094",
+      "email": "customer094@example.test",
+      "password": "CustDemo!094",
+      "role": "customer",
+      "phone": "0900000194",
+      "status": "active",
+      "loyaltyPoints": 2088,
+      "createdAt": "2025-03-05T06:28:54Z",
+      "address": {
+        "street": "95 Đường Demo 15",
+        "district": "Quận 11",
+        "city": "Huế",
+        "country": "Vietnam",
+        "postalCode": "70094"
+      }
+    },
+    {
+      "id": "CUS-0095",
+      "fullName": "Hoàng Anh Sơn",
+      "username": "customer095",
+      "email": "customer095@example.test",
+      "password": "CustDemo!095",
+      "role": "customer",
+      "phone": "0900000195",
+      "status": "active",
+      "loyaltyPoints": 2236,
+      "createdAt": "2025-12-27T06:28:54Z",
+      "address": {
+        "street": "96 Đường Demo 16",
+        "district": "Quận 12",
+        "city": "Nha Trang",
+        "country": "Vietnam",
+        "postalCode": "70095"
+      }
+    },
+    {
+      "id": "CUS-0096",
+      "fullName": "Phan Anh Hạnh",
+      "username": "customer096",
+      "email": "customer096@example.test",
+      "password": "CustDemo!096",
+      "role": "customer",
+      "phone": "0900000196",
+      "status": "active",
+      "loyaltyPoints": 1847,
+      "createdAt": "2026-04-06T06:28:54Z",
+      "address": {
+        "street": "97 Đường Demo 17",
+        "district": "Quận 1",
+        "city": "Biên Hòa",
+        "country": "Vietnam",
+        "postalCode": "70096"
+      }
+    },
+    {
+      "id": "CUS-0097",
+      "fullName": "Vũ Anh Nga",
+      "username": "customer097",
+      "email": "customer097@example.test",
+      "password": "CustDemo!097",
+      "role": "customer",
+      "phone": "0900000197",
+      "status": "active",
+      "loyaltyPoints": 855,
+      "createdAt": "2025-01-25T06:28:54Z",
+      "address": {
+        "street": "98 Đường Demo 18",
+        "district": "Quận 2",
+        "city": "TP. Hồ Chí Minh",
+        "country": "Vietnam",
+        "postalCode": "70097"
+      }
+    },
+    {
+      "id": "CUS-0098",
+      "fullName": "Đặng Anh Đạt",
+      "username": "customer098",
+      "email": "customer098@example.test",
+      "password": "CustDemo!098",
+      "role": "customer",
+      "phone": "0900000198",
+      "status": "active",
+      "loyaltyPoints": 489,
+      "createdAt": "2026-03-27T06:28:54Z",
+      "address": {
+        "street": "99 Đường Demo 19",
+        "district": "Quận 3",
+        "city": "Hà Nội",
+        "country": "Vietnam",
+        "postalCode": "70098"
+      }
+    },
+    {
+      "id": "CUS-0099",
+      "fullName": "Bùi Anh Nhi",
+      "username": "customer099",
+      "email": "customer099@example.test",
+      "password": "CustDemo!099",
+      "role": "customer",
+      "phone": "0900000199",
+      "status": "active",
+      "loyaltyPoints": 1030,
+      "createdAt": "2026-02-16T06:28:54Z",
+      "address": {
+        "street": "100 Đường Demo 20",
+        "district": "Quận 4",
+        "city": "Đà Nẵng",
+        "country": "Vietnam",
+        "postalCode": "70099"
+      }
+    },
+    {
+      "id": "CUS-0100",
+      "fullName": "Đỗ Anh Hạnh",
+      "username": "customer100",
+      "email": "customer100@example.test",
+      "password": "CustDemo!100",
+      "role": "customer",
+      "phone": "0900000200",
+      "status": "active",
+      "loyaltyPoints": 1012,
+      "createdAt": "2025-08-19T06:28:54Z",
+      "address": {
+        "street": "101 Đường Demo 1",
+        "district": "Quận 5",
+        "city": "Cần Thơ",
+        "country": "Vietnam",
+        "postalCode": "70100"
+      }
+    }
+  ]
+}

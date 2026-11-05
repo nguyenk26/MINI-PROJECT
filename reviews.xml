@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reviews schemaVersion="1.0" generatedAt="2026-11-05T07:31:41Z" source="simulated-review-history">
+  <review review_id="REV-0001">
+    <product_id>1</product_id>
+    <customer_id>CUS-0008</customer_id>
+    <rating>4</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-10-22T08:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0002">
+    <product_id>1</product_id>
+    <customer_id>CUS-0017</customer_id>
+    <rating>1</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-10-18T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0003">
+    <product_id>1</product_id>
+    <customer_id>CUS-0026</customer_id>
+    <rating>3</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-07-01T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0004">
+    <product_id>1</product_id>
+    <customer_id>CUS-0035</customer_id>
+    <rating>5</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-11-08T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0005">
+    <product_id>1</product_id>
+    <customer_id>CUS-0044</customer_id>
+    <rating>2</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-11-21T19:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0006">
+    <product_id>1</product_id>
+    <customer_id>CUS-0053</customer_id>
+    <rating>4</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-01-06T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0007">
+    <product_id>1</product_id>
+    <customer_id>CUS-0062</customer_id>
+    <rating>1</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-09-07T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0008">
+    <product_id>1</product_id>
+    <customer_id>CUS-0071</customer_id>
+    <rating>3</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-08-10T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0009">
+    <product_id>1</product_id>
+    <customer_id>CUS-0080</customer_id>
+    <rating>5</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-10-30T03:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0010">
+    <product_id>1</product_id>
+    <customer_id>CUS-0089</customer_id>
+    <rating>2</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-06-25T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0011">
+    <product_id>2</product_id>
+    <customer_id>CUS-0015</customer_id>
+    <rating>2</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-06-21T13:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0012">
+    <product_id>2</product_id>
+    <customer_id>CUS-0024</customer_id>
+    <rating>4</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-07-24T13:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0013">
+    <product_id>2</product_id>
+    <customer_id>CUS-0033</customer_id>
+    <rating>1</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-06-23T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0014">
+    <product_id>2</product_id>
+    <customer_id>CUS-0042</customer_id>
+    <rating>3</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-03-16T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0015">
+    <product_id>2</product_id>
+    <customer_id>CUS-0051</customer_id>
+    <rating>5</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2025-06-03T06:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0016">
+    <product_id>2</product_id>
+    <customer_id>CUS-0060</customer_id>
+    <rating>2</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-06-27T04:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0017">
+    <product_id>2</product_id>
+    <customer_id>CUS-0069</customer_id>
+    <rating>4</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-04-11T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0018">
+    <product_id>2</product_id>
+    <customer_id>CUS-0078</customer_id>
+    <rating>1</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-09-08T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0019">
+    <product_id>2</product_id>
+    <customer_id>CUS-0087</customer_id>
+    <rating>3</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-10-06T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0020">
+    <product_id>2</product_id>
+    <customer_id>CUS-0096</customer_id>
+    <rating>5</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-12-12T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0021">
+    <product_id>3</product_id>
+    <customer_id>CUS-0022</customer_id>
+    <rating>5</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-07-03T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0022">
+    <product_id>3</product_id>
+    <customer_id>CUS-0031</customer_id>
+    <rating>2</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-05-07T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0023">
+    <product_id>3</product_id>
+    <customer_id>CUS-0040</customer_id>
+    <rating>4</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-03-18T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0024">
+    <product_id>3</product_id>
+    <customer_id>CUS-0049</customer_id>
+    <rating>1</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-07-06T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0025">
+    <product_id>3</product_id>
+    <customer_id>CUS-0058</customer_id>
+    <rating>3</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-07-27T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0026">
+    <product_id>3</product_id>
+    <customer_id>CUS-0067</customer_id>
+    <rating>5</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-11-02T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0027">
+    <product_id>3</product_id>
+    <customer_id>CUS-0076</customer_id>
+    <rating>2</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2025-07-29T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0028">
+    <product_id>3</product_id>
+    <customer_id>CUS-0085</customer_id>
+    <rating>4</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-03-16T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0029">
+    <product_id>3</product_id>
+    <customer_id>CUS-0094</customer_id>
+    <rating>1</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-08-30T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0030">
+    <product_id>3</product_id>
+    <customer_id>CUS-0003</customer_id>
+    <rating>3</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-05-24T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0031">
+    <product_id>4</product_id>
+    <customer_id>CUS-0029</customer_id>
+    <rating>3</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2025-10-10T04:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0032">
+    <product_id>4</product_id>
+    <customer_id>CUS-0038</customer_id>
+    <rating>5</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-05-15T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0033">
+    <product_id>4</product_id>
+    <customer_id>CUS-0047</customer_id>
+    <rating>2</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-07-03T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0034">
+    <product_id>4</product_id>
+    <customer_id>CUS-0056</customer_id>
+    <rating>4</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-12-02T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0035">
+    <product_id>4</product_id>
+    <customer_id>CUS-0065</customer_id>
+    <rating>1</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-07-22T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0036">
+    <product_id>4</product_id>
+    <customer_id>CUS-0074</customer_id>
+    <rating>3</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-07-21T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0037">
+    <product_id>4</product_id>
+    <customer_id>CUS-0083</customer_id>
+    <rating>5</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-06-04T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0038">
+    <product_id>4</product_id>
+    <customer_id>CUS-0092</customer_id>
+    <rating>2</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-09-23T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0039">
+    <product_id>4</product_id>
+    <customer_id>CUS-0001</customer_id>
+    <rating>4</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-07-25T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0040">
+    <product_id>4</product_id>
+    <customer_id>CUS-0010</customer_id>
+    <rating>1</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-04-14T17:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0041">
+    <product_id>5</product_id>
+    <customer_id>CUS-0036</customer_id>
+    <rating>1</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-01-21T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0042">
+    <product_id>5</product_id>
+    <customer_id>CUS-0045</customer_id>
+    <rating>3</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-07-20T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0043">
+    <product_id>5</product_id>
+    <customer_id>CUS-0054</customer_id>
+    <rating>5</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2025-11-11T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0044">
+    <product_id>5</product_id>
+    <customer_id>CUS-0063</customer_id>
+    <rating>2</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-03-28T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0045">
+    <product_id>5</product_id>
+    <customer_id>CUS-0072</customer_id>
+    <rating>4</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-02-18T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0046">
+    <product_id>5</product_id>
+    <customer_id>CUS-0081</customer_id>
+    <rating>1</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-01-20T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0047">
+    <product_id>5</product_id>
+    <customer_id>CUS-0090</customer_id>
+    <rating>3</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-01-11T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0048">
+    <product_id>5</product_id>
+    <customer_id>CUS-0099</customer_id>
+    <rating>5</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-05-28T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0049">
+    <product_id>5</product_id>
+    <customer_id>CUS-0008</customer_id>
+    <rating>2</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-05-01T08:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0050">
+    <product_id>5</product_id>
+    <customer_id>CUS-0017</customer_id>
+    <rating>4</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-07-05T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0051">
+    <product_id>6</product_id>
+    <customer_id>CUS-0043</customer_id>
+    <rating>4</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-01-29T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0052">
+    <product_id>6</product_id>
+    <customer_id>CUS-0052</customer_id>
+    <rating>1</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-07-10T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0053">
+    <product_id>6</product_id>
+    <customer_id>CUS-0061</customer_id>
+    <rating>3</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-07-06T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0054">
+    <product_id>6</product_id>
+    <customer_id>CUS-0070</customer_id>
+    <rating>5</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-02-26T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0055">
+    <product_id>6</product_id>
+    <customer_id>CUS-0079</customer_id>
+    <rating>2</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-08-04T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0056">
+    <product_id>6</product_id>
+    <customer_id>CUS-0088</customer_id>
+    <rating>4</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2025-10-09T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0057">
+    <product_id>6</product_id>
+    <customer_id>CUS-0097</customer_id>
+    <rating>1</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-04-04T05:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0058">
+    <product_id>6</product_id>
+    <customer_id>CUS-0006</customer_id>
+    <rating>3</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-07-26T08:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0059">
+    <product_id>6</product_id>
+    <customer_id>CUS-0015</customer_id>
+    <rating>5</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-06-04T05:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0060">
+    <product_id>6</product_id>
+    <customer_id>CUS-0024</customer_id>
+    <rating>2</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-07-08T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0061">
+    <product_id>7</product_id>
+    <customer_id>CUS-0050</customer_id>
+    <rating>2</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-09-05T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0062">
+    <product_id>7</product_id>
+    <customer_id>CUS-0059</customer_id>
+    <rating>4</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-08-09T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0063">
+    <product_id>7</product_id>
+    <customer_id>CUS-0068</customer_id>
+    <rating>1</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-05-11T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0064">
+    <product_id>7</product_id>
+    <customer_id>CUS-0077</customer_id>
+    <rating>3</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-08-20T05:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0065">
+    <product_id>7</product_id>
+    <customer_id>CUS-0086</customer_id>
+    <rating>5</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-05-23T05:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0066">
+    <product_id>7</product_id>
+    <customer_id>CUS-0095</customer_id>
+    <rating>2</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-05-27T17:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0067">
+    <product_id>7</product_id>
+    <customer_id>CUS-0004</customer_id>
+    <rating>4</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-05-05T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0068">
+    <product_id>7</product_id>
+    <customer_id>CUS-0013</customer_id>
+    <rating>1</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-07-14T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0069">
+    <product_id>7</product_id>
+    <customer_id>CUS-0022</customer_id>
+    <rating>3</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-02-07T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0070">
+    <product_id>7</product_id>
+    <customer_id>CUS-0031</customer_id>
+    <rating>5</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2025-10-12T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0071">
+    <product_id>8</product_id>
+    <customer_id>CUS-0057</customer_id>
+    <rating>5</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-05-14T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0072">
+    <product_id>8</product_id>
+    <customer_id>CUS-0066</customer_id>
+    <rating>2</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2025-12-11T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0073">
+    <product_id>8</product_id>
+    <customer_id>CUS-0075</customer_id>
+    <rating>4</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2025-12-22T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0074">
+    <product_id>8</product_id>
+    <customer_id>CUS-0084</customer_id>
+    <rating>1</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-03-01T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0075">
+    <product_id>8</product_id>
+    <customer_id>CUS-0093</customer_id>
+    <rating>3</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-05-24T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0076">
+    <product_id>8</product_id>
+    <customer_id>CUS-0002</customer_id>
+    <rating>5</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-08-01T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0077">
+    <product_id>8</product_id>
+    <customer_id>CUS-0011</customer_id>
+    <rating>2</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-09-27T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0078">
+    <product_id>8</product_id>
+    <customer_id>CUS-0020</customer_id>
+    <rating>4</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-10-31T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0079">
+    <product_id>8</product_id>
+    <customer_id>CUS-0029</customer_id>
+    <rating>1</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-04-12T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0080">
+    <product_id>8</product_id>
+    <customer_id>CUS-0038</customer_id>
+    <rating>3</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-09-08T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0081">
+    <product_id>9</product_id>
+    <customer_id>CUS-0064</customer_id>
+    <rating>3</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-11-16T02:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0082">
+    <product_id>9</product_id>
+    <customer_id>CUS-0073</customer_id>
+    <rating>5</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-10-07T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0083">
+    <product_id>9</product_id>
+    <customer_id>CUS-0082</customer_id>
+    <rating>2</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-10-30T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0084">
+    <product_id>9</product_id>
+    <customer_id>CUS-0091</customer_id>
+    <rating>4</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-10-25T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0085">
+    <product_id>9</product_id>
+    <customer_id>CUS-0100</customer_id>
+    <rating>1</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2025-10-02T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0086">
+    <product_id>9</product_id>
+    <customer_id>CUS-0009</customer_id>
+    <rating>3</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-07-22T03:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0087">
+    <product_id>9</product_id>
+    <customer_id>CUS-0018</customer_id>
+    <rating>5</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-05-14T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0088">
+    <product_id>9</product_id>
+    <customer_id>CUS-0027</customer_id>
+    <rating>2</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-01-18T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0089">
+    <product_id>9</product_id>
+    <customer_id>CUS-0036</customer_id>
+    <rating>4</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-07-21T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0090">
+    <product_id>9</product_id>
+    <customer_id>CUS-0045</customer_id>
+    <rating>1</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-06-28T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0091">
+    <product_id>10</product_id>
+    <customer_id>CUS-0071</customer_id>
+    <rating>1</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-05-21T08:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0092">
+    <product_id>10</product_id>
+    <customer_id>CUS-0080</customer_id>
+    <rating>3</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-09-13T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0093">
+    <product_id>10</product_id>
+    <customer_id>CUS-0089</customer_id>
+    <rating>5</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-07-15T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0094">
+    <product_id>10</product_id>
+    <customer_id>CUS-0098</customer_id>
+    <rating>2</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-11-02T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0095">
+    <product_id>10</product_id>
+    <customer_id>CUS-0007</customer_id>
+    <rating>4</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-07-11T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0096">
+    <product_id>10</product_id>
+    <customer_id>CUS-0016</customer_id>
+    <rating>1</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-06-09T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0097">
+    <product_id>10</product_id>
+    <customer_id>CUS-0025</customer_id>
+    <rating>3</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-09-28T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0098">
+    <product_id>10</product_id>
+    <customer_id>CUS-0034</customer_id>
+    <rating>5</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2025-09-03T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0099">
+    <product_id>10</product_id>
+    <customer_id>CUS-0043</customer_id>
+    <rating>2</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-06-27T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0100">
+    <product_id>10</product_id>
+    <customer_id>CUS-0052</customer_id>
+    <rating>4</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-12-15T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0101">
+    <product_id>11</product_id>
+    <customer_id>CUS-0078</customer_id>
+    <rating>4</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-09-03T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0102">
+    <product_id>11</product_id>
+    <customer_id>CUS-0087</customer_id>
+    <rating>1</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-08-30T19:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0103">
+    <product_id>11</product_id>
+    <customer_id>CUS-0096</customer_id>
+    <rating>3</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-07-16T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0104">
+    <product_id>11</product_id>
+    <customer_id>CUS-0005</customer_id>
+    <rating>5</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-07-31T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0105">
+    <product_id>11</product_id>
+    <customer_id>CUS-0014</customer_id>
+    <rating>2</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-02-18T04:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0106">
+    <product_id>11</product_id>
+    <customer_id>CUS-0023</customer_id>
+    <rating>4</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-07-10T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0107">
+    <product_id>11</product_id>
+    <customer_id>CUS-0032</customer_id>
+    <rating>1</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-08-20T13:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0108">
+    <product_id>11</product_id>
+    <customer_id>CUS-0041</customer_id>
+    <rating>3</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-07-09T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0109">
+    <product_id>11</product_id>
+    <customer_id>CUS-0050</customer_id>
+    <rating>5</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-03-04T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0110">
+    <product_id>11</product_id>
+    <customer_id>CUS-0059</customer_id>
+    <rating>2</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-12-19T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0111">
+    <product_id>12</product_id>
+    <customer_id>CUS-0085</customer_id>
+    <rating>2</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-09-20T05:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0112">
+    <product_id>12</product_id>
+    <customer_id>CUS-0094</customer_id>
+    <rating>4</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-02-08T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0113">
+    <product_id>12</product_id>
+    <customer_id>CUS-0003</customer_id>
+    <rating>1</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-08-06T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0114">
+    <product_id>12</product_id>
+    <customer_id>CUS-0012</customer_id>
+    <rating>3</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-08-17T08:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0115">
+    <product_id>12</product_id>
+    <customer_id>CUS-0021</customer_id>
+    <rating>5</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-05-27T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0116">
+    <product_id>12</product_id>
+    <customer_id>CUS-0030</customer_id>
+    <rating>2</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-09-12T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0117">
+    <product_id>12</product_id>
+    <customer_id>CUS-0039</customer_id>
+    <rating>4</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-07-14T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0118">
+    <product_id>12</product_id>
+    <customer_id>CUS-0048</customer_id>
+    <rating>1</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-03-23T13:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0119">
+    <product_id>12</product_id>
+    <customer_id>CUS-0057</customer_id>
+    <rating>3</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-09-07T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0120">
+    <product_id>12</product_id>
+    <customer_id>CUS-0066</customer_id>
+    <rating>5</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-08-13T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0121">
+    <product_id>13</product_id>
+    <customer_id>CUS-0092</customer_id>
+    <rating>5</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-03-04T04:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0122">
+    <product_id>13</product_id>
+    <customer_id>CUS-0001</customer_id>
+    <rating>2</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-12-03T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0123">
+    <product_id>13</product_id>
+    <customer_id>CUS-0010</customer_id>
+    <rating>4</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-06-25T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0124">
+    <product_id>13</product_id>
+    <customer_id>CUS-0019</customer_id>
+    <rating>1</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-07-15T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0125">
+    <product_id>13</product_id>
+    <customer_id>CUS-0028</customer_id>
+    <rating>3</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-10-23T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0126">
+    <product_id>13</product_id>
+    <customer_id>CUS-0037</customer_id>
+    <rating>5</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-12-12T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0127">
+    <product_id>13</product_id>
+    <customer_id>CUS-0046</customer_id>
+    <rating>2</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-10-31T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0128">
+    <product_id>13</product_id>
+    <customer_id>CUS-0055</customer_id>
+    <rating>4</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-03-22T05:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0129">
+    <product_id>13</product_id>
+    <customer_id>CUS-0064</customer_id>
+    <rating>1</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-06-15T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0130">
+    <product_id>13</product_id>
+    <customer_id>CUS-0073</customer_id>
+    <rating>3</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-07-01T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0131">
+    <product_id>14</product_id>
+    <customer_id>CUS-0099</customer_id>
+    <rating>3</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2025-06-22T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0132">
+    <product_id>14</product_id>
+    <customer_id>CUS-0008</customer_id>
+    <rating>5</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-04-06T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0133">
+    <product_id>14</product_id>
+    <customer_id>CUS-0017</customer_id>
+    <rating>2</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-11-03T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0134">
+    <product_id>14</product_id>
+    <customer_id>CUS-0026</customer_id>
+    <rating>4</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-09-29T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0135">
+    <product_id>14</product_id>
+    <customer_id>CUS-0035</customer_id>
+    <rating>1</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-04-24T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0136">
+    <product_id>14</product_id>
+    <customer_id>CUS-0044</customer_id>
+    <rating>3</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-08-17T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0137">
+    <product_id>14</product_id>
+    <customer_id>CUS-0053</customer_id>
+    <rating>5</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-01-13T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0138">
+    <product_id>14</product_id>
+    <customer_id>CUS-0062</customer_id>
+    <rating>2</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-02-27T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0139">
+    <product_id>14</product_id>
+    <customer_id>CUS-0071</customer_id>
+    <rating>4</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-04-05T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0140">
+    <product_id>14</product_id>
+    <customer_id>CUS-0080</customer_id>
+    <rating>1</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-01-20T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0141">
+    <product_id>15</product_id>
+    <customer_id>CUS-0006</customer_id>
+    <rating>1</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-09-07T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0142">
+    <product_id>15</product_id>
+    <customer_id>CUS-0015</customer_id>
+    <rating>3</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-06-20T13:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0143">
+    <product_id>15</product_id>
+    <customer_id>CUS-0024</customer_id>
+    <rating>5</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-07-01T08:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0144">
+    <product_id>15</product_id>
+    <customer_id>CUS-0033</customer_id>
+    <rating>2</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2025-09-24T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0145">
+    <product_id>15</product_id>
+    <customer_id>CUS-0042</customer_id>
+    <rating>4</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-05-06T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0146">
+    <product_id>15</product_id>
+    <customer_id>CUS-0051</customer_id>
+    <rating>1</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-06-30T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0147">
+    <product_id>15</product_id>
+    <customer_id>CUS-0060</customer_id>
+    <rating>3</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-11-05T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0148">
+    <product_id>15</product_id>
+    <customer_id>CUS-0069</customer_id>
+    <rating>5</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-01-28T19:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0149">
+    <product_id>15</product_id>
+    <customer_id>CUS-0078</customer_id>
+    <rating>2</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-05-28T17:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0150">
+    <product_id>15</product_id>
+    <customer_id>CUS-0087</customer_id>
+    <rating>4</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-06-19T03:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0151">
+    <product_id>16</product_id>
+    <customer_id>CUS-0013</customer_id>
+    <rating>4</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-10-26T13:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0152">
+    <product_id>16</product_id>
+    <customer_id>CUS-0022</customer_id>
+    <rating>1</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-05-21T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0153">
+    <product_id>16</product_id>
+    <customer_id>CUS-0031</customer_id>
+    <rating>3</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-09-02T01:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0154">
+    <product_id>16</product_id>
+    <customer_id>CUS-0040</customer_id>
+    <rating>5</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-07-26T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0155">
+    <product_id>16</product_id>
+    <customer_id>CUS-0049</customer_id>
+    <rating>2</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-09-07T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0156">
+    <product_id>16</product_id>
+    <customer_id>CUS-0058</customer_id>
+    <rating>4</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-06-27T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0157">
+    <product_id>16</product_id>
+    <customer_id>CUS-0067</customer_id>
+    <rating>1</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-05-25T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0158">
+    <product_id>16</product_id>
+    <customer_id>CUS-0076</customer_id>
+    <rating>3</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-07-24T04:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0159">
+    <product_id>16</product_id>
+    <customer_id>CUS-0085</customer_id>
+    <rating>5</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-09-21T05:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0160">
+    <product_id>16</product_id>
+    <customer_id>CUS-0094</customer_id>
+    <rating>2</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-07-10T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0161">
+    <product_id>17</product_id>
+    <customer_id>CUS-0020</customer_id>
+    <rating>2</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-04-15T02:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0162">
+    <product_id>17</product_id>
+    <customer_id>CUS-0029</customer_id>
+    <rating>4</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-09-27T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0163">
+    <product_id>17</product_id>
+    <customer_id>CUS-0038</customer_id>
+    <rating>1</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-11-30T02:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0164">
+    <product_id>17</product_id>
+    <customer_id>CUS-0047</customer_id>
+    <rating>3</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-05-16T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0165">
+    <product_id>17</product_id>
+    <customer_id>CUS-0056</customer_id>
+    <rating>5</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-06-12T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0166">
+    <product_id>17</product_id>
+    <customer_id>CUS-0065</customer_id>
+    <rating>2</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-06-28T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0167">
+    <product_id>17</product_id>
+    <customer_id>CUS-0074</customer_id>
+    <rating>4</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-09-22T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0168">
+    <product_id>17</product_id>
+    <customer_id>CUS-0083</customer_id>
+    <rating>1</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-07-12T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0169">
+    <product_id>17</product_id>
+    <customer_id>CUS-0092</customer_id>
+    <rating>3</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2025-10-15T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0170">
+    <product_id>17</product_id>
+    <customer_id>CUS-0001</customer_id>
+    <rating>5</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-06-20T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0171">
+    <product_id>18</product_id>
+    <customer_id>CUS-0027</customer_id>
+    <rating>5</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-09-14T03:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0172">
+    <product_id>18</product_id>
+    <customer_id>CUS-0036</customer_id>
+    <rating>2</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-05-19T12:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0173">
+    <product_id>18</product_id>
+    <customer_id>CUS-0045</customer_id>
+    <rating>4</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2025-06-23T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0174">
+    <product_id>18</product_id>
+    <customer_id>CUS-0054</customer_id>
+    <rating>1</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2025-09-21T06:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0175">
+    <product_id>18</product_id>
+    <customer_id>CUS-0063</customer_id>
+    <rating>3</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-04-05T22:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0176">
+    <product_id>18</product_id>
+    <customer_id>CUS-0072</customer_id>
+    <rating>5</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2026-02-14T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0177">
+    <product_id>18</product_id>
+    <customer_id>CUS-0081</customer_id>
+    <rating>2</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2025-07-10T10:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0178">
+    <product_id>18</product_id>
+    <customer_id>CUS-0090</customer_id>
+    <rating>4</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-04-27T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0179">
+    <product_id>18</product_id>
+    <customer_id>CUS-0099</customer_id>
+    <rating>1</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-04-29T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0180">
+    <product_id>18</product_id>
+    <customer_id>CUS-0008</customer_id>
+    <rating>3</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-09-18T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0181">
+    <product_id>19</product_id>
+    <customer_id>CUS-0034</customer_id>
+    <rating>3</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2026-10-13T15:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0182">
+    <product_id>19</product_id>
+    <customer_id>CUS-0043</customer_id>
+    <rating>5</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2026-04-24T20:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0183">
+    <product_id>19</product_id>
+    <customer_id>CUS-0052</customer_id>
+    <rating>2</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2026-07-05T00:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0184">
+    <product_id>19</product_id>
+    <customer_id>CUS-0061</customer_id>
+    <rating>4</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2026-05-14T14:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0185">
+    <product_id>19</product_id>
+    <customer_id>CUS-0070</customer_id>
+    <rating>1</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-02-18T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0186">
+    <product_id>19</product_id>
+    <customer_id>CUS-0079</customer_id>
+    <rating>3</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-06-08T11:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0187">
+    <product_id>19</product_id>
+    <customer_id>CUS-0088</customer_id>
+    <rating>5</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-01-28T04:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0188">
+    <product_id>19</product_id>
+    <customer_id>CUS-0097</customer_id>
+    <rating>2</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2025-10-04T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0189">
+    <product_id>19</product_id>
+    <customer_id>CUS-0006</customer_id>
+    <rating>4</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-05-26T09:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0190">
+    <product_id>19</product_id>
+    <customer_id>CUS-0015</customer_id>
+    <rating>1</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-10-15T18:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0191">
+    <product_id>20</product_id>
+    <customer_id>CUS-0041</customer_id>
+    <rating>1</rating>
+    <comment>Good quality and exactly as described.</comment>
+    <created_at>2026-02-07T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0192">
+    <product_id>20</product_id>
+    <customer_id>CUS-0050</customer_id>
+    <rating>3</rating>
+    <comment>Packaging was secure and the product looks great.</comment>
+    <created_at>2025-06-30T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0193">
+    <product_id>20</product_id>
+    <customer_id>CUS-0059</customer_id>
+    <rating>5</rating>
+    <comment>Good value. I would recommend it.</comment>
+    <created_at>2026-05-13T21:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0194">
+    <product_id>20</product_id>
+    <customer_id>CUS-0068</customer_id>
+    <rating>2</rating>
+    <comment>A convenient product for everyday use.</comment>
+    <created_at>2025-07-28T23:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0195">
+    <product_id>20</product_id>
+    <customer_id>CUS-0077</customer_id>
+    <rating>4</rating>
+    <comment>The item is useful and worth the price.</comment>
+    <created_at>2025-09-12T16:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0196">
+    <product_id>20</product_id>
+    <customer_id>CUS-0086</customer_id>
+    <rating>1</rating>
+    <comment>Product matches the photos and description.</comment>
+    <created_at>2025-09-21T03:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0197">
+    <product_id>20</product_id>
+    <customer_id>CUS-0095</customer_id>
+    <rating>3</rating>
+    <comment>The quality is better than I expected.</comment>
+    <created_at>2025-07-02T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0198">
+    <product_id>20</product_id>
+    <customer_id>CUS-0004</customer_id>
+    <rating>5</rating>
+    <comment>Nice product. Delivery was quick.</comment>
+    <created_at>2026-06-17T07:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0199">
+    <product_id>20</product_id>
+    <customer_id>CUS-0013</customer_id>
+    <rating>2</rating>
+    <comment>I am happy with this purchase.</comment>
+    <created_at>2026-03-02T08:31:41Z</created_at>
+  </review>
+  <review review_id="REV-0200">
+    <product_id>20</product_id>
+    <customer_id>CUS-0022</customer_id>
+    <rating>4</rating>
+    <comment>Everything arrived in good condition.</comment>
+    <created_at>2026-04-16T13:31:41Z</created_at>
+  </review>
+</reviews>
