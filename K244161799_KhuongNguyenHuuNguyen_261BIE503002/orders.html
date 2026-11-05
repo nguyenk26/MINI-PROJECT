@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Xem và cập nhật giỏ hàng Let’s shopping.">
+  <meta name="theme-color" content="#155eef">
+  <title>Giỏ hàng — Let’s shopping</title>
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/auth.css">
+  <script src="js/orders.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="Let’s shopping — Trang chủ">
+        <img src="logo.jpg" alt="Logo Let’s shopping" width="54" height="54">
+        <span class="brand-name">Let’s <span>shopping</span></span>
+      </a>
+      <p class="header-note">Kiểm tra giỏ hàng trước khi thanh toán.</p>
+    </div>
+    <nav class="site-nav" aria-label="Điều hướng chính">
+      <div class="nav-inner">
+        <a class="nav-link" href="index.html">Trang chủ</a>
+        <a class="nav-link" href="index.html#products">Sản phẩm</a>
+        <a class="nav-link" href="orders.html" aria-current="page">Giỏ hàng</a>
+        <a class="nav-link" href="login.html">Đăng nhập</a>
+      </div>
+    </nav>
+  </header>
+  <main class="auth-page">
+    <section class="orders-card" aria-labelledby="orders-title">
+      <header class="orders-heading">
+        <div>
+          <p class="eyebrow">Đơn hàng của bạn</p>
+          <h1 id="orders-title">Giỏ hàng</h1>
+        </div>
+        <a class="button button-secondary" href="index.html#products">Tiếp tục mua sắm</a>
+      </header>
+      <p class="orders-feedback" id="orders-feedback" role="status" aria-live="polite"></p>
+      <div class="orders-table-wrap">
+        <table class="orders-table">
+          <thead>
+            <tr>
+              <th scope="col">Sản phẩm</th>
+              <th scope="col">Đơn giá</th>
+              <th scope="col">Số lượng</th>
+              <th scope="col">Thành tiền</th>
+              <th scope="col"><span class="visually-hidden">Thao tác</span></th>
+            </tr>
+          </thead>
+          <tbody id="cart-table-body"></tbody>
+        </table>
+      </div>
+      <div class="orders-summary">
+        <p>Tổng tiền <strong id="cart-grand-total">$0.00</strong></p>
+        <button class="button button-primary" id="orders-checkout" type="button" disabled>Thanh toán</button>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>© 2026 Let’s shopping. Khương Nguyễn Hữu Nguyên - K244161799</span>
+      <span>Thanh toán an toàn · Giao hàng tiện lợi</span>
+    </div>
+  </footer>
+</body>
+</html>

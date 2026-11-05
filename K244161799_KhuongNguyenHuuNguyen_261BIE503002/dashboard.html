@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dashboard nhân viên Let’s shopping: thống kê đơn hàng, doanh thu và sản phẩm đã bán.">
+  <meta name="theme-color" content="#155eef">
+  <title>Dashboard nhân viên — Let’s shopping</title>
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/auth.css">
+  <link rel="stylesheet" href="css/dashboard.css">
+  <script src="js/dashboard.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="Let’s shopping — Trang chủ">
+        <img src="logo.jpg" alt="Logo Let’s shopping" width="54" height="54">
+        <span class="brand-name">Let’s <span>shopping</span></span>
+      </a>
+      <p class="header-note" id="staff-welcome">Dashboard nhân viên</p>
+    </div>
+    <nav class="site-nav" aria-label="Điều hướng chính">
+      <div class="nav-inner">
+        <a class="nav-link" href="index.html">Trang chủ</a>
+        <a class="nav-link" href="index.html#products">Sản phẩm</a>
+        <a class="nav-link" href="orders.html">Giỏ hàng</a>
+        <a class="nav-link" id="dashboard-account-link" href="login.html">Đăng nhập</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="dashboard-page">
+    <header class="dashboard-heading">
+      <div>
+        <p class="eyebrow dashboard-eyebrow">Quản lý bán hàng</p>
+        <h1>Dashboard nhân viên</h1>
+        <p class="dashboard-subtitle">Theo dõi đơn hàng, doanh thu và sản phẩm được khách hàng lựa chọn.</p>
+      </div>
+      <span class="dashboard-period" id="dashboard-period">Dữ liệu đang tải…</span>
+    </header>
+
+    <section class="dashboard-notice" id="dashboard-notice" role="status" aria-live="polite" hidden></section>
+    <section class="dashboard-metrics" aria-label="Tổng quan bán hàng">
+      <article class="metric-card">
+        <span class="metric-label">Tổng đơn hàng</span>
+        <strong class="metric-value" id="metric-orders">—</strong>
+        <span class="metric-caption" id="metric-order-caption">Đơn trong dữ liệu</span>
+      </article>
+      <article class="metric-card">
+        <span class="metric-label">Đơn đã thanh toán</span>
+        <strong class="metric-value" id="metric-paid-orders">—</strong>
+        <span class="metric-caption">Không gồm đơn hủy/hoàn</span>
+      </article>
+      <article class="metric-card metric-card-highlight">
+        <span class="metric-label">Doanh thu ghi nhận</span>
+        <strong class="metric-value" id="metric-revenue">—</strong>
+        <span class="metric-caption">Từ đơn đã thanh toán</span>
+      </article>
+      <article class="metric-card">
+        <span class="metric-label">Sản phẩm đã bán</span>
+        <strong class="metric-value" id="metric-units">—</strong>
+        <span class="metric-caption">Tổng số lượng trong đơn hợp lệ</span>
+      </article>
+    </section>
+
+    <section class="dashboard-section" aria-labelledby="top-products-title">
+      <div class="section-heading">
+        <div>
+          <h2 id="top-products-title">Sản phẩm bán chạy</h2>
+          <p>Xếp theo số lượng đã bán trong các đơn đã thanh toán.</p>
+        </div>
+      </div>
+      <div class="top-products-grid" id="top-products" aria-live="polite"></div>
+    </section>
+
+    <section class="dashboard-section orders-dashboard-section" aria-labelledby="order-history-title">
+      <div class="section-heading">
+        <div>
+          <h2 id="order-history-title">Thống kê đơn hàng</h2>
+          <p id="orders-summary">Tổng hợp đơn mẫu và đơn phát sinh từ thanh toán demo.</p>
+        </div>
+      </div>
+      <form class="dashboard-filters" id="dashboard-filters">
+        <div class="field">
+          <label for="status-filter">Trạng thái</label>
+          <select id="status-filter" name="status">
+            <option value="">Tất cả trạng thái</option>
+            <option value="completed">Hoàn thành</option>
+            <option value="shipped">Đang giao</option>
+            <option value="processing">Đang xử lý</option>
+            <option value="pending">Chờ xử lý</option>
+            <option value="cancelled">Đã hủy</option>
+            <option value="refunded">Đã hoàn tiền</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="date-from">Từ ngày</label>
+          <input id="date-from" name="from" type="date">
+        </div>
+        <div class="field">
+          <label for="date-to">Đến ngày</label>
+          <input id="date-to" name="to" type="date">
+        </div>
+        <button class="button button-primary dashboard-filter-button" type="submit">Lọc đơn hàng</button>
+        <button class="button button-secondary dashboard-reset-button" type="reset">Xóa lọc</button>
+      </form>
+      <p class="dashboard-order-count" id="dashboard-order-count" aria-live="polite"></p>
+      <div class="dashboard-table-wrap">
+        <table class="orders-table dashboard-table">
+          <thead>
+            <tr>
+              <th scope="col">Mã đơn</th>
+              <th scope="col">Ngày tạo</th>
+              <th scope="col">Khách hàng</th>
+              <th scope="col">Nhân viên</th>
+              <th scope="col">Số mặt hàng</th>
+              <th scope="col">Tổng tiền</th>
+              <th scope="col">Trạng thái</th>
+            </tr>
+          </thead>
+          <tbody id="dashboard-orders"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>© 2026 Let’s shopping. Khương Nguyễn Hữu Nguyên - K244161799</span>
+      <span>Dashboard nhân viên · Dữ liệu demo trên trình duyệt</span>
+    </div>
+  </footer>
+</body>
+</html>
